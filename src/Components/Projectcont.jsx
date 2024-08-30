@@ -16,7 +16,7 @@ const Projectcont = () => {
     },
     {
       image:"weatherss.png",
-      link:"https://magical-crostata-838318.netlify.app/",
+      link:"https://weather-app-extended.vercel.app/",
       name:"Weather App"
     },
 
