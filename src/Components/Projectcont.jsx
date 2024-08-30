@@ -15,7 +15,7 @@ const Projectcont = () => {
       name:"To-do App"
     },
     {
-      image:"weatherss.png",
+      image:"weatherpic.png",
       link:"https://weather-app-extended.vercel.app/",
       name:"Weather App"
     },
